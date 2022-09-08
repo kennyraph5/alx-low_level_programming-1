@@ -5,8 +5,9 @@
  *
  * Description: Print programming is like building a multilingual puzzle
  *
- * Return: Always O (Success)
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
