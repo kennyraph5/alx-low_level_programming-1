@@ -9,12 +9,11 @@
  */
 int main(void)
 {
-	char name = "Samuel";
-	int i;
+	char nm = "Samuel";
+	while(*nm)
+	{
+		_putchar(*nm);
+		nm++;
+		_putchar('\n');
 
-	for (i = 0; i < 5; i++)
-		_putchar(name[i]);
-	_putchar('\n');
-
-	return (0);
-}
+		return(0)
