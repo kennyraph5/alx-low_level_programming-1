@@ -10,10 +10,11 @@
 int main(void)
 {
 	char nm = "Samuel";
-	while(*nm)
+
+	while (*nm)
 	{
 		_putchar(*nm);
 		nm++;
 		_putchar('\n');
 
-		return(0)
+		return (0);
