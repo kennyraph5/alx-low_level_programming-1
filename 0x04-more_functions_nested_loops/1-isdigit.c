@@ -3,7 +3,7 @@
 /**
  * main - a function that checks for a digit (0 through 9)
  *
- * Description - An input integer
+ * Description:  An input integer
  *
  * Return: Always return 0
  */
