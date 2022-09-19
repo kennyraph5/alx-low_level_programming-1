@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 #include <stdio.h>
 
@@ -22,3 +23,6 @@ void _puts(char *str)
 		putchar('\n');
 	}
 }
+=======
+
+>>>>>>> 6f08dc771fd99f20725f5665d72699b5a68ddf45
